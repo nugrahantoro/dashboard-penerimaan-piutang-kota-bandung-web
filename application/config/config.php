@@ -23,7 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://45.118.112.234:10119/dashboardpp/';
+$config['base_url'] = 'http://localhost/dashboardpp/';
 
 /*
 |--------------------------------------------------------------------------
